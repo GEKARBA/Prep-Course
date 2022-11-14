@@ -4,7 +4,7 @@
 const nuevaString = "Hola ";
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = null;
+const nuevoNum = "10 ";
 
 // Crea una variable booleana:
 const nuevoBool = null;
@@ -24,7 +24,6 @@ const nuevoModulo = 21 % 5 === null;
 // Asegúrate que usas "return" cuando la consola te lo pida.
 // Pista: "console.log()" NO fucionará.
 // No cambies los nombres de las funciones.
-
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
